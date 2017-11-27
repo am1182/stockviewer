@@ -1,0 +1,2 @@
+# stockviewer
+Stockviewer with JavaFX
